@@ -9,6 +9,7 @@
 
 .header {
     height: 7rem;
+    font-size: 1.4rem;  //14px as 1rem =10px defined in base.scss
     background-color: var(--color-white);
     border-bottom: var(--color-grey-light-2);
     display: flex;
